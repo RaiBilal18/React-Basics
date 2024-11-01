@@ -1,0 +1,30 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+.Clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+.innerClock {
+  height: 45%;
+  width: 70vw;
+  background-color: white;
+  color: black;
+}
+.Heading h1 {
+  font-weight: 800;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.Perah p {
+  font-size: 1.7rem;
+}
+.current p {
+  font-size: 1.7rem;
+}

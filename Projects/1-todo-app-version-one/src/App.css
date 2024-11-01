@@ -1,0 +1,20 @@
+.Todo-App {
+  width: 60%;
+  margin: 10px auto 30px auto;
+}
+input {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 40px;
+}
+.kg-row {
+  margin: 7px 0px;
+}
+.kg-button {
+  width: 90px;
+}
